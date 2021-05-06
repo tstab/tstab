@@ -4,7 +4,7 @@ I am currently working for Vestfold og Telemark County, in Norway.
   - Interests include Beat Saber, XR, DevOps and so much more.
 
 # Current projects
-  - None! Currently finding projects to work on!
+  - Currently working on @dawnvt AccSaber feed Discord.NET bot
   
 <!---
 tstab/tstab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
